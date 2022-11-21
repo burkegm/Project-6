@@ -1,0 +1,15 @@
+C:\Users\Grays\Desktop\project 6\Library Kiosk\Library Kiosk\obj\Debug\net6.0\Library Kiosk.csproj.AssemblyReference.cache
+C:\Users\Grays\Desktop\project 6\Library Kiosk\Library Kiosk\obj\Debug\net6.0\Library Kiosk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grays\Desktop\project 6\Library Kiosk\Library Kiosk\obj\Debug\net6.0\Library Kiosk.AssemblyInfoInputs.cache
+C:\Users\Grays\Desktop\project 6\Library Kiosk\Library Kiosk\obj\Debug\net6.0\Library Kiosk.AssemblyInfo.cs
+C:\Users\Grays\Desktop\project 6\Library Kiosk\Library Kiosk\obj\Debug\net6.0\Library Kiosk.csproj.CoreCompileInputs.cache
+C:\Users\Grays\Desktop\project 6\Library Kiosk\Library Kiosk\bin\Debug\net6.0\Library Kiosk.exe
+C:\Users\Grays\Desktop\project 6\Library Kiosk\Library Kiosk\bin\Debug\net6.0\Library Kiosk.deps.json
+C:\Users\Grays\Desktop\project 6\Library Kiosk\Library Kiosk\bin\Debug\net6.0\Library Kiosk.runtimeconfig.json
+C:\Users\Grays\Desktop\project 6\Library Kiosk\Library Kiosk\bin\Debug\net6.0\Library Kiosk.dll
+C:\Users\Grays\Desktop\project 6\Library Kiosk\Library Kiosk\bin\Debug\net6.0\Library Kiosk.pdb
+C:\Users\Grays\Desktop\project 6\Library Kiosk\Library Kiosk\obj\Debug\net6.0\Library Kiosk.dll
+C:\Users\Grays\Desktop\project 6\Library Kiosk\Library Kiosk\obj\Debug\net6.0\refint\Library Kiosk.dll
+C:\Users\Grays\Desktop\project 6\Library Kiosk\Library Kiosk\obj\Debug\net6.0\Library Kiosk.pdb
+C:\Users\Grays\Desktop\project 6\Library Kiosk\Library Kiosk\obj\Debug\net6.0\Library Kiosk.genruntimeconfig.cache
+C:\Users\Grays\Desktop\project 6\Library Kiosk\Library Kiosk\obj\Debug\net6.0\ref\Library Kiosk.dll
